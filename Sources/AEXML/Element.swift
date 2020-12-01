@@ -5,9 +5,9 @@
  */
 
 import Foundation
-#if canImport(FoundationXML)
-import FoundationXML
-#endif
+//#if canImport(FoundationXML)
+//import FoundationXML
+//#endif
 
 /**
     This is base class for holding XML structure.
